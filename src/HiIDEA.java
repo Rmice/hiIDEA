@@ -19,7 +19,7 @@
  */
 public class HiIDEA {
     public static void main(String srgs[])  {
-        System.out.println("Hi IDEA");
+        System.out.println("Hi IDEA II");
 
     }
 }
